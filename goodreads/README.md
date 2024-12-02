@@ -27,7 +27,7 @@ The Goodreads dataset contains information about books, ratings, authors, and us
 #### Correlation Heatmap
 A correlation heatmap was generated to visualize the relationships between numerical features in the dataset.
 
-![Correlation Heatmap](goodreads/correlation_heatmap.png)
+[![Correlation Heatmap](goodreads/correlation_heatmap.png)](https://github.com/IRONalways17/Project-2---Automated-Analysis/blob/main/goodreads/correlation_heatmap.png)
 
 #### Rating Distribution
 A distribution plot of the book ratings provides insights into the rating distribution across the dataset.
