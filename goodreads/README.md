@@ -32,7 +32,7 @@ A correlation heatmap was generated to visualize the relationships between numer
 #### Rating Distribution
 A distribution plot of the book ratings provides insights into the rating distribution across the dataset.
 
-![Rating Distribution](goodreads/rating_distribution.png)
+[![Rating Distribution](goodreads/rating_distribution.png)](https://github.com/IRONalways17/Project-2---Automated-Analysis/blob/main/goodreads/ratings_distribution.png)
 
 ### Dataset Narrative
 The analysis of the Goodreads dataset highlights key insights into the relationship between book ratings, number of reviews, and the genres. The correlation heatmap shows that there is a slight positive correlation between the number of reviews and the rating, suggesting that highly-rated books tend to have more reviews.
