@@ -17,3 +17,4 @@ The following datasets are analyzed in this project:
 
 ## Structure
 This repository is structured into the following folders:
+/Project-2---Automated-Analysis ├── goodreads/ │ ├── analysis_results/ │ ├── correlation_heatmap.png │ ├── rating_distribution.png │ └── README.md ├── media/ │ ├── analysis_results/ │ ├── views_distribution.png │ ├── rating_distribution.png │ └── README.md ├── happiness/ │ ├── analysis_results/ │ ├── happiness_score_distribution.png │ ├── income_vs_happiness.png │ └── README.md ├── autolysis.py └── requirements.txt
